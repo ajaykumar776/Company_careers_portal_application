@@ -10,7 +10,7 @@
 
 # snapshots
 welcome Page
-![welcome Page](snapshots/u1.png)
+![welcome Page](u1.png)
 Register page
 ![login Page](snapshots/u2.png)
 About Page
